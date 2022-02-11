@@ -1,0 +1,9 @@
+.carousel-inner>.item>img,
+.carousel-inner>.item>a>img {
+    width: 80%;
+    margin: auto;
+}
+
+.b1 {
+    background-color: rgb(132, 145, 151);
+}
